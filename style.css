@@ -64,17 +64,18 @@ h1{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size:clamp(1rem , 5vw , 10rem);
+    font-size:clamp(1rem , 2vw , 2rem);
     gap: 5rem;
+    margin-top: 3rem;
 }
 #user-score , #comp-score{
-    font-size:clamp(1rem , 5vw , 10rem);
+    font-size:clamp(1rem , 2vw , 2rem);
 }
 .msg-container{
     margin-top: 5rem;
 }
 #msg{
-    font-size:clamp(1rem , 5vw , 10rem);
+    font-size:clamp(1rem , 3vw , 3rem);
     height: 5rem;
     background-color: black;
     color: #fff;
